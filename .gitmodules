@@ -5,6 +5,3 @@
 [submodule "BIS"]
 	path = BIS
 	url = https://github.com/stefanangrick/bis
-[submodule "BOJ"]
-	path = BOJ
-	url = https://github.com/stefanangrick/boj
